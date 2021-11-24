@@ -1,0 +1,12 @@
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\bin\Debug\net5.0\ToDoListClassLibrary.deps.json
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\bin\Debug\net5.0\ToDoListClassLibrary.dll
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\bin\Debug\net5.0\ref\ToDoListClassLibrary.dll
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\bin\Debug\net5.0\ToDoListClassLibrary.pdb
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.csproj.AssemblyReference.cache
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.AssemblyInfo.cs
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.dll
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ref\ToDoListClassLibrary.dll
+C:\Users\jwhud\source\repos\Embernet\Embernet\ToDoListClassLibrary\obj\Debug\net5.0\ToDoListClassLibrary.pdb

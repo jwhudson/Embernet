@@ -1,0 +1,72 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <EditForm Model="@Task" OnValidSubmit="HandleValidCreate">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+                <div class="row">
+                    <label>
+                        Task Name:
+                        <InputText @bind-Value="Task.TaskName" />
+                    </label>
+                </div>
+                <div class="row">
+                    <label>
+                        Task Start Time:
+                        <input type="time" @bind-value="Task.TaskStartTime" />
+                    </label>
+                </div>
+                <div class="row">
+                    <label>
+                        Task End Time:
+                        <input type="time" @bind-value="Task.TaskEndTime" />
+                    </label>
+                </div>
+                <div class="row">
+                    <label>
+                        Task Due Date:
+                        <InputDate @bind-Value="Task.TaskDueDate" />
+                    </label>
+                </div>
+                <div class="row">
+                    <button class="btn btn-primary">Add Task</button>
+                </div>
+                @*<label>
+            Task Type:
+            <InputText @bind-Value="Task.TaskType.TypeName" />
+        </label>*@
+            </EditForm>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-md-8">
+            @if(currentTasks != null)
+            {
+                <table class="table table-active table-bordered table-primary">
+                    <thead>
+                        <tr>
+                            <th>Task</th>
+                            <th>Task Length</th>
+                            <th>Due Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (ITaskModel task in currentTasks)
+                        {
+                        <tr>
+                            <td>@task.TaskName</td>
+                            <td>@FormatTaskTime(task)</td>
+                            <td>@task.TaskDueDate</td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+
