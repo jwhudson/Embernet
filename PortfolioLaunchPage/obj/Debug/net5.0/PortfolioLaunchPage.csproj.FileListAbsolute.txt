@@ -80,3 +80,7 @@ C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5
 C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\Razor\Pages\ToDoList.razor.g.cs
 C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\RazorDeclaration\Pages\Components\DropBoxComponent.razor.g.cs
 C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\Razor\Pages\Components\DropBoxComponent.razor.g.cs
+C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\RazorDeclaration\Shared\NavBarTop.razor.g.cs
+C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\Razor\Shared\NavBarTop.razor.g.cs
+C:\Users\jwhud\source\repos\Embernet\Embernet\PortfolioLaunchPage\obj\Debug\net5.0\scopedcss\Shared\NavBarTop.razor.rz.scp.css

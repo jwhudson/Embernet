@@ -1,5 +1,9 @@
 @import '';
 
+/* _content/PortfolioLaunchPage/Pages/Index.razor.rz.scp.css */
+body[b-4852jvrkk2] {
+
+}
 /* _content/PortfolioLaunchPage/Shared/MainLayout.razor.rz.scp.css */
 .page[b-uru8yjuoea] {
     position: relative;
@@ -70,6 +74,11 @@
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+}
+/* _content/PortfolioLaunchPage/Shared/NavBarTop.razor.rz.scp.css */
+.top-bar[b-73k5x0hz0m] {
+    width: 100%;
+    
 }
 /* _content/PortfolioLaunchPage/Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-rl5su9x2g2] {
